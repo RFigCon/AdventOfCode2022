@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Rafael Conceição"
+	],
+	"copyright": "Copyright © 2023, Rafael Conceição",
+	"description": "Advent Of Code 2022 solutions in Dlang",
+	"license": "AGPL",
+	"name": "advent_of_code"
+}
